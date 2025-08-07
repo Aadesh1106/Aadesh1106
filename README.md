@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Exploring frameworks, courses, and tools to sharpen my craft — always growing and always curious!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aadesh1106](https://github.com/Aadesh1106)
-
 - 💬 Ask me about **Creative coding and experimental design**
 
 - 📫 How to reach me **aadeshn45@gmail.com**
